@@ -8,5 +8,5 @@ Passionate Backend software engineer with a particular focus on Backend develomp
 - 🌱 Learning anything I can get my hands on!
 - 👯 Always looking to collaborate
 - 💬 Ask me about all things iOS
-- 📫 Let's connect – [LinkedIn](https://www.linkedin.com/in/afrazsiddiqui) | [Personal Website](https://safeside.tk)
+- 📫 Let's connect – [LinkedIn](https://www.linkedin.com/in/daveamadi/) | [Personal Website](https://safeside.tk)
 - ⚡
