@@ -1,4 +1,4 @@
-![David Amadi](https://https://raw.githubusercontent.com/dayveedo1/dayveedo1/master/photo-2.jpg)
+![David Amadi](https://raw.githubusercontent.com/dayveedo1/dayveedo1/master/photo-2.jpg)
 
 # Hi, I'm Dave 👋
 
