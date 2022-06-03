@@ -1,12 +1,12 @@
-![Afraz on iOS Academy](https://raw.githubusercontent.com/AfrazCodes/AfrazCodes/main/header.png)
+![David Amadi](https://https://raw.githubusercontent.com/dayveedo1/dayveedo1/master/photo-2.jpg)
 
-# Hi, I'm Afraz 👋
+# Hi, I'm Dave 👋
 
-Passionate software engineer with a particular focus on Apple Platforms – iOS/macOS. You can find me creating videos on [iOS Academy](https://www.youtube.com/iOSAcademy), contributing to Open Source here on Github, and frequenting new coffee shops in NYC.
+Passionate Backend software engineer with a particular focus on Backend develompment using Java & SpringBoot, C# & .NET Core. You can find me creating videos on [iOS Academy](https://www.youtube.com/iOSAcademy).
 
-- 🔭 Currently working on all things Apple – iOS, macOS, watchOS, tvOS
+//- 🔭 Currently working on all things Apple – iOS, macOS, watchOS, tvOS
 - 🌱 Learning anything I can get my hands on!
 - 👯 Always looking to collaborate
 - 💬 Ask me about all things iOS
-- 📫 Let's connect – [LinkedIn](https://www.linkedin.com/in/afrazsiddiqui) | [Personal Website](https://afraz.me)
-- ⚡ [Sponsor iOS Academy](mailto:hello@iosacademy.io)
+- 📫 Let's connect – [LinkedIn](https://www.linkedin.com/in/afrazsiddiqui) | [Personal Website](https://safeside.tk)
+- ⚡
