@@ -2,7 +2,7 @@
 
 # Hi, I'm Dave 👋
 
-Passionate Backend software engineer with a particular focus on Backend develompment using Java & SpringBoot, C# & .NET Core. You can find me creating videos on [iOS Academy](https://www.youtube.com/iOSAcademy).
+Passionate Backend software engineer with a particular focus on Backend develompment using Java & SpringBoot, C# & .NET Core. 
 
 //- 🔭 Currently working on all things Apple – iOS, macOS, watchOS, tvOS
 - 🌱 Learning anything I can get my hands on!
