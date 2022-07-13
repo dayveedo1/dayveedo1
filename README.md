@@ -7,6 +7,6 @@ Passionate Backend software engineer with a particular focus on Backend develomp
 - 🔭 Currently working on all things .NET – .NETCore 3.1, .NETCore 5, .NETCore 6, MSSQL
 - 🌱 Learning anything I can get my hands on!
 - 👯 Always looking to collaborate
-- 💬 Looking forward to explore Data Science & Machine Learning
+- 💬  Data Science & Machine Learning enthusiast.
 - 📫 Let's connect – [LinkedIn](https://www.linkedin.com/in/daveamadi/) | [Personal Website](https://safeside.tk)
 - ⚡
