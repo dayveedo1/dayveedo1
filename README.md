@@ -2,12 +2,12 @@
 
 # Hi, I'm Emeka 👋
 
-Passionate Backend software engineer with a particular focus on Backend develompment using Java & SpringBoot, C# & .NET Core. 
+Passionate Backend software engineer with a particular focus on Backend develompment using Java & SpringBoot, C# & .NET Core, Node.js. 
 
-- 🔭 Currently working on all things .NET – .NETCore 3.1, .NETCore 5, .NET 6/7/8, MSSQL
+- 🔭 Currently working on all things .NET – .NETCore 3.1, .NET 6/6/7/8, MSSQL, Azure, AWS
 - 🔭 Cybersecurity analyst/enthusiast
-- 🌱 Learning anything I can get my hands on!
+- 🌱 Providing optimized solutions using cutting-edge tools!
 - 👯 Always looking to collaborate
 - 💬  Data Science & Machine Learning enthusiast.
-- 📫 Let's connect – [LinkedIn](https://www.linkedin.com/in/daveamadi/) | [Personal Website](https://safeside.tk)
+- 📫 Let's connect – [LinkedIn](https://www.linkedin.com/in/eamadi/) | [Personal Website](https://safeside.tk)
 - ⚡
